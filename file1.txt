@@ -3,4 +3,8 @@ Hello world!!!
 Good evening (from branch master)
 111111
 some new feature
+<<<<<<< HEAD
 critical fix456
+=======
+critical fix123
+>>>>>>> 1f2163d (add 123 file1)
