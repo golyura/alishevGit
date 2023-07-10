@@ -5,3 +5,4 @@ line from user2
 line from user1
 rebase user1
 reb
+reb2
